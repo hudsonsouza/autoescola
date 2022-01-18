@@ -1,1 +1,3 @@
-este eh um Git
+Teste eh um Git
+
+estou escrevendo no arq ja criado
