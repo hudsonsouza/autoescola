@@ -1,3 +1,6 @@
 Teste eh um Git
 
 estou escrevendo no arq ja criado
+
+
+nao esta reconhecendo o meu usuario no push
