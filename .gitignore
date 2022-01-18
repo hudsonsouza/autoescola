@@ -1,0 +1,6 @@
+# PASTAS IGNORADAS
+/hudson/*
+/lixeira/*
+
+# ARQUIVOS IGNORADOS
+seila.txt
