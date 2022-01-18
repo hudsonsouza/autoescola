@@ -8,3 +8,5 @@ nao esta reconhecendo o meu usuario no push
 bom dia, 18/01/2022
 
 boa tarde
+
+agora estou como master
