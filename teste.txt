@@ -9,9 +9,9 @@ bom dia, 18/01/2022
 
 boa tarde
 
-agora estou como master
+agora estou como master/main
 
-depois do Token, agora vai
+aprendi a lidar com o Token
 
 =====
 
