@@ -1,1 +1,3 @@
-primeira linha de comando GIT
+primeira linha de codigo GIT
+segunda linha de codigo
+terceira linha de codigo
