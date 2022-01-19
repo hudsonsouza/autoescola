@@ -1,0 +1,8 @@
+### BANCO DE DADOS AUTOESCOLA
+
+create table tb_pessoa (
+id_pessoa bigint not null auto_increment primary key,
+nome varchar(150),
+sobrenome varchar(150),
+nome_completo varchar(255)
+);
